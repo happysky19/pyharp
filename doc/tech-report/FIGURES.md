@@ -8,3 +8,12 @@ for a file a model run wrote, a pointer to the run recorded in the file.
 Regenerate every figure: `python3 tools/render_figures.py` (to `build/figures/<chapter>/`); one chapter:
 `python3 tools/render_figures.py --chapters ch05`. The book itself draws them in the render
 (`quarto render book/`), from the same cells.
+
+## ch07
+
+| figure | section file | code | data (written by) |
+|---|---|---|---|
+| `fig-ch07-mixture-errors` | `07-assembly/_mixture.qmd` | `pyharp_report/ch07/figures/fig_mixture_errors.py` | `src/pyharp_report/ch07/data/historical.json` |
+| `fig-ch07-mixture-flow` | `07-assembly/_mixture.qmd` | `pyharp_report/ch07/figures/fig_mixture_flow.py` | - |
+| `fig-ch07-spectral-flow` | `07-assembly/_spectral.qmd` | `pyharp_report/ch07/figures/fig_spectral_flow.py` | - |
+| `fig-ch07-spectral-ratios` | `07-assembly/_spectral.qmd` | `pyharp_report/ch07/figures/fig_spectral_ratios.py` | `src/pyharp_report/ch07/data/historical.json` |

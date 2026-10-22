@@ -27,4 +27,21 @@ sections:
     - symbols, diagnostics and errors
   sec-appa-10:
     - symbols, reserved letters (do not reuse)
+  sec-ch07-mixture:
+    - optical-property mixing
+    - scattering-weighted moments
+  sec-ch07-spectral:
+    - spectral integration
+    - band flux units
+    - bands
+    - name
+    - solver
+    - range
+    - nwave
+    - nstr
+    - flags
+    - opacities
 unlabeled:
+  - file: chapters/appendices/_appb-ch07.qmd
+    heading: Optical-property assembly and spectral integration (@sec-ch07)
+    covered-by: sec-appb

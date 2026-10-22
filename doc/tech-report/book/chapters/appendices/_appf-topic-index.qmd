@@ -2,13 +2,59 @@
 
 ## B {.unnumbered .unlisted}
 
+**band flux units**: Matching the spectral measure, @sec-ch07-spectral.
+
+**`bands`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**bands**: Matching the spectral measure, @sec-ch07-spectral.
+
 **bibliography**: [Reading list](#sec-reading).
 
+## F {.unnumbered .unlisted}
+
+**`flags`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**flags**: Matching the spectral measure, @sec-ch07-spectral.
+
+## N {.unnumbered .unlisted}
+
+**`name`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**name**: Matching the spectral measure, @sec-ch07-spectral.
+
+**`nstr`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**nstr**: Matching the spectral measure, @sec-ch07-spectral.
+
+**`nwave`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**nwave**: Matching the spectral measure, @sec-ch07-spectral.
+
+## O {.unnumbered .unlisted}
+
+**`opacities`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**opacities**: Matching the spectral measure, @sec-ch07-spectral.
+
+**optical-property mixing**: Combining optical properties, @sec-ch07-mixture.
+
 ## R {.unnumbered .unlisted}
+
+**`range`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**range**: Matching the spectral measure, @sec-ch07-spectral.
 
 **report navigation**: [Report navigation](#sec-navigation).
 
 ## S {.unnumbered .unlisted}
+
+**scattering-weighted moments**: Combining optical properties, @sec-ch07-mixture.
+
+**`solver`**: Matching the spectral measure, @sec-ch07-spectral.
+
+**solver**: Matching the spectral measure, @sec-ch07-spectral.
+
+**spectral integration**: Matching the spectral measure, @sec-ch07-spectral.
 
 **symbols, coordinates and grids**: [1. Coordinates and grids](#sec-appa-1).
 
